@@ -14,5 +14,5 @@ All the functionality has different classes for each.
 After doing all operation user is able to exit from atm application.
 
 # Tools and Languages used:
-# -> Eclipse IDE
-# -> Language Java Programming 
+-> Eclipse IDE
+-> Language Java Programming 
